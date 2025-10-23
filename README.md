@@ -35,8 +35,8 @@
     </div>
   </td>
     
-    <td width="30%" valign="top">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EnrH0xdlmT5uBZ9BCe/200.webp" width="100%" alt="right-gif"/>
-    </td>
+  <td width="30%" valign="top">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EnrH0xdlmT5uBZ9BCe/200.webp" width="100%" alt="right-gif"/>
+  </td>
   </tr>
 </table>
