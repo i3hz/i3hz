@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/i3hz/i3hz/output/snake.svg" alt="Snake animation" />
 
 ###
