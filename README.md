@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm i3hz :)</h2>
+<h2 align="left">Hi ! I'm i3hz :)</h2>
 
 ###
 
@@ -16,8 +16,13 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg)" height="30" alt="c++ logo"  />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="30" alt="cuda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="30" alt="huggingface logo"  />
 </div>
 
 ###
