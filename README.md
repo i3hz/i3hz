@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm i3hz :)</h2>
+<h2 align="left">Hi! I'm i3hz :)</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=i3hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -15,7 +15,7 @@
 ###
 
 <div align="left">
-  <strong>💻 My Tech Stack</strong>
+  <strong>I use</strong>
   <br><br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <strong>Send Noodes</strong>
+  <strong>Send Noodes :)</strong>
   <br><br>
   <a href="https://discord.com/users/997099653554253914">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord">
