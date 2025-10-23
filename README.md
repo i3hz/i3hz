@@ -31,9 +31,8 @@
 
 ###
 
-<div align="left">
- [![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.com/users/997099653554253914)
-</div>
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge)](https://discord.com/users/997099653554253914)
+
 
 ###
 
