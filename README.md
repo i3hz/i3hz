@@ -7,9 +7,19 @@
 
 ###
 
-<img align="left" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwWaY9rHspjc9lKzYI/giphy.gif" alt="left-gif"/>
-<img align="center" height="250" src="https://media.tenor.com/qdtlBF7q2b8AAAAi/evernight-march-7th.gif" alt="left-gif"/>
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EnrH0xdlmT5uBZ9BCe/200.webp" alt="right-gif"/>
+<table width="100%">
+  <tr>
+    <td align="left" width="33%">
+      <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwWaY9rHspjc9lKzYI/giphy.gif" alt="left-gif"/>
+    </td>
+    <td align="center" width="33%">
+      <img height="250" src="https://media.tenor.com/qdtlBF7q2b8AAAAi/evernight-march-7th.gif" alt="center-gif"/>
+    </td>
+    <td align="right" width="33%">
+      <img height="250"src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EnrH0xdlmT5uBZ9BCe/200.webp" alt="right-gif"/>
+    </td>
+  </tr>
+</table>
 
 <br clear="both">
 
