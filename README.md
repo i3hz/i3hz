@@ -27,7 +27,7 @@
 ###
 
 <div align="left">
-  <strong>I use</strong>
+  <h2>I use</h2>
   <br><br>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
