@@ -21,9 +21,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" height="30" alt="cuda logo"  />
+  
+  <img src="https://cdn.simpleicons.org/nvidia/76B900" height="30" alt="cuda logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/huggingface/huggingface-original.svg" height="30" alt="huggingface logo"  />
+  
+  <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="30" alt="huggingface logo"  />
 </div>
 
 ###
