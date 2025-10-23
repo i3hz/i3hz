@@ -33,7 +33,7 @@
 ###
 
 <div align="left">
-  <strong>📫 Connect with Me</strong>
+  <strong>Send Noodes</strong>
   <br><br>
   <a href="https://discord.com/users/997099653554253914">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord">
