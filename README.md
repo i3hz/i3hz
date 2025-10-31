@@ -15,7 +15,7 @@
   <br>
   <img src="https://media.tenor.com/Vu7NiEEgzA4AAAAM/cat-pizza.gif" width="100">
   
-  - learning c++ and cuda   
+  - learning c++, cuda and go :anguished:  
   - studying machine learning
 </details>
 
