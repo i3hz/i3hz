@@ -38,8 +38,9 @@
   <img src="https://i.pinimg.com/736x/d8/60/1e/d8601e256b827015e1012abf610b74c4.jpg" width="100">
   
   `python` • `c++` • `java`  
-  `pytorch` • `tensorflow` • `huggingface-transformers`  
+  `pytorch` • `jax` • `huggingface-transformers`  
   `model-finetuning` • `RLHF/PPO/GRPO/DPO`
+  `langchain` • `TRL` • `FastAPI`
   `git` • `bash` • `zsh` • `linux`
   
 </details>
