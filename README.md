@@ -39,8 +39,8 @@
   
   `python` • `c++` • `java`  
   `pytorch` • `jax` • `huggingface-transformers`  
-  `model-finetuning` • `RLHF/PPO/GRPO/DPO`
-  `langchain` • `TRL` • `FastAPI`
+  `model-finetuning` • `RLHF/PPO/GRPO/DPO`  
+  `langchain` • `TRL` • `FastAPI`  
   `git` • `bash` • `zsh` • `linux`
   
 </details>
