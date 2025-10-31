@@ -1,53 +1,81 @@
-<h2 align="left">Hi! I'm i3hz :)</h2>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=i3hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i3hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there;+i'm+prathamesh+anvekar;+backend+%26+ai+dev" alt="Typing SVG" />
+
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="22" />](https://twitter.com/prathamiscool)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />](https://linkedin.com/in/prathamanvekar)
+[<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" height="22" />](https://portfolio-prathamanvekar.vercel.app)
+
+<img src="https://i.pinimg.com/originals/1a/01/5f/1a015f044ca3b2ab541f7e246913a246.gif" width="120">
+
 </div>
 
-###
+---
 
-<div align="center">
-  <table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="left" width="33%">
-        <img height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pwWaY9rHspjc9lKzYI/giphy.gif" alt="left-gif"/>
-      </td>
-      <td align="center" width="33%">
-        <img height="250" src="https://media.tenor.com/qdtlBF7q2b8AAAAi/evernight-march-7th.gif" alt="center-gif"/>
-      </td>
-      <td align="right" width="33%">
-        <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRxcjJuMDluZTc5OXV3Mnp2Z2ZoZGJlZHVzMHk5NTZucnBmdzJkZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EnrH0xdlmT5uBZ9BCe/200.webp" alt="right-gif"/>
-      </td>
-    </tr>
-  </table>
-</div>
-<br clear="both">
+<details open>
+  <summary><b>what's cooking 🧑‍🍳</b></summary>
+  <br>
+  <img src="https://media.tenor.com/Vu7NiEEgzA4AAAAM/cat-pizza.gif" width="100">
+  
+  - learning c++ and cuda   
+  - studying machine learning
+</details>
 
-###
+---
 
-<div align="left">
-  <h2>I use</h2>
-  <br><br>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-    <img width="12" />
-    <img src="https://cdn.simpleicons.org/nvidia/76B900" height="30" alt="cuda logo"  />
-    <img width="12" />
-    <img src="https://api.iconify.design/simple-icons:huggingface.svg" height="30" alt="huggingface logo"  />
-  </p>
-</div>
+<details open>
+  <summary><b>what i've cooked so far 🍳</b></summary>
+  <br>
+  <img src="https://i.pinimg.com/originals/0d/ac/06/0dac06a5332d13e2a4e2dc30ba0c6411.gif" width="100">
+  
+  - nothing worth mentioning lel  
+  - built a few projects (few even work)
+</details>
 
-###
+---
 
-<div align="left">
-  <strong>Send Noodes :)</strong>
-  <br><br>
-  <a href="https://discord.com/users/997099653554253914">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" alt="Discord">
-  </a>
+<details open>
+  <summary><b>things i know (kinda) ⚙️</b></summary>
+  <br>
+  <img src="https://i.pinimg.com/736x/d8/60/1e/d8601e256b827015e1012abf610b74c4.jpg" width="100">
+  
+  `python` • `c++` • `java`  
+  `pytorch` • `tensorflow` • `huggingface-transformers`  
+  `model-finetuning` • `RLHF/PPO/GRPO/DPO`
+  `git` • `bash` • `zsh` • `linux`
+  
+</details>
+
+---
+
+### stats (if you even care.. baka)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=i3hz&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=i3hz&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+
+
+<p>
+  <img src="https://media.tenor.com/5FKcQ0VY5qsAAAAM/tiramisu-cake-tiramisu-cake-dance.gif" width="100" style="margin:5px">
+  <img src="https://media1.tenor.com/m/QtM09XFBm6AAAAAd/bocchi-the-rock-dance.gif" width="100" style="margin:5px">
+  <img src="https://media1.tenor.com/m/iegu4kVlV_gAAAAC/evernight-hsr.gif" width="100" style="margin:5px">
+</p>
+
+<details>
+  <summary><b>terminal.exe [click to boot]</b></summary>
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&size=18&duration=2500&pause=1000&color=00FF9D&vCenter=true&width=400&lines=%3E+whoami;i3hz;%3E+yy+p+to+yank+and+paste+iirc;:wq;%3E+exit+0" />
+</details>
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=FF61C7&center=true&vCenter=true&width=435&lines=ok+im+gonna+stop+customizing+ts+so+much;btw+did+u+know+that+i+know+how+to+use+neovim">
+</p>
+
 </div>
