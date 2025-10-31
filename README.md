@@ -2,9 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there;+i'm+prathamesh+anvekar;+backend+%26+ai+dev" alt="Typing SVG" />
 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="22" />](https://twitter.com/prathamiscool)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />](https://linkedin.com/in/prathamanvekar)
-[<img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" height="22" />](https://portfolio-prathamanvekar.vercel.app)
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />](https://www.linkedin.com/in/ved-thorat-209721332/)
 
 <img src="https://i.pinimg.com/originals/1a/01/5f/1a015f044ca3b2ab541f7e246913a246.gif" width="120">
 
