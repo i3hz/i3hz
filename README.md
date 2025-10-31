@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hi+there;+i'm+i3hz;+backend+%26+ai+dev" alt="Typing SVG" />
 
-<img src="https://i.pinimg.com/originals/1a/01/5f/1a015f044ca3b2ab541f7e246913a246.gif" width="120">
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22" />](https://www.linkedin.com/in/ved-thorat-209721332/)
 [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" height="22" />](https://discord.com/users/997099653554253914)
 
+<img src="https://i.pinimg.com/originals/1a/01/5f/1a015f044ca3b2ab541f7e246913a246.gif" width="120">
 </div>
 
 ---
